@@ -1,0 +1,5 @@
+{
+  "name": "Entre Chaves - Gestão de Episódios",
+  "description": "Sistema de gestão de episódios para o podcast Entre Chaves, com integração Supabase e calendário de publicações.",
+  "requestFramePermissions": []
+}
